@@ -15,7 +15,7 @@
 </div>
 
 <script>
-    const nav =[
+    const nav = [
         {
             title:'Обо мне',
             href:'/abuot'
@@ -33,8 +33,8 @@
             href:'/contact'
         },
         {
-        title:'temp',
-        href:'/temp'
+            title:'temp',
+            href:'/temp'
         }
     ]
 </script>
