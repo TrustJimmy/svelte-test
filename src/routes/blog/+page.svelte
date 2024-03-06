@@ -4,7 +4,7 @@
 
 <div class="container">
     <h1>Мои статьи</h1>
-    <div class="blogposts">
+    <div class="blogpost">
         {#each routes as page}
         <div class="post">
             <h2>{page.title}</h2>
