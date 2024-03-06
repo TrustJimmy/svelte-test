@@ -29,7 +29,7 @@
         max-width: 800px;
         padding: 0 20px;
     }
-    .blogposts {
+    .blogpost {
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-gap: 20px;
