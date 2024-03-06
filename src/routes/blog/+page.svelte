@@ -10,9 +10,6 @@
                 <h2>{page.title}</h2>
                 <p>{page.body}</p>
                 <p class="readmore">
-                    <a class="link" href={`/blog/post/${page.id}`}>
-                        Читать далее
-                    </a>
                 </p>
             </div>
         {/each}
@@ -39,7 +36,5 @@
         padding: 10px;
         box-shadow: 0 0 10px #eee;
     }
-    .link {
-        color: rgb(10, 10, 139)
-    }
+    
 </style>
