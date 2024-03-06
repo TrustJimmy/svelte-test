@@ -20,7 +20,7 @@
 </div>
 
 <script>
-    import { routes } from './+layout.svelte'
+    import { routes } from './routes.js'
 </script>
 
 <style>
