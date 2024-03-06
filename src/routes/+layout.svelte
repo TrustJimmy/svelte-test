@@ -18,7 +18,7 @@
     const nav = [
         {
             title:'Обо мне',
-            href:'/abuot'
+            href:'/about'
         },
         {
             title: 'Блог',
