@@ -19,9 +19,6 @@
     </div>
 </div>
 
-<script>
-    import {routes} from './routes';
-</script>
 
 <style>
     .container {
